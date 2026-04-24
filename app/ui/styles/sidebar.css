@@ -1,0 +1,36 @@
+/* ══════════════════════════════════════════
+   Sidebar Navigation  (240 px)
+   ══════════════════════════════════════════ */
+
+#sidebar {
+    background-color: #121e2d;
+    border-right: 1px solid rgba(44, 123, 229, 0.55);
+}
+
+#sidebar_header {
+    border-bottom: 1px solid rgba(44, 123, 229, 0.3);
+}
+
+#app_title {
+    color: #e2e8f0;
+    font: 700 12pt "Segoe UI";
+    padding: 0;
+}
+
+#nav_scroll,
+#nav_container,
+#nav_frame {
+    background-color: transparent;
+}
+
+#sidebar_footer {
+    border-top: 1px solid rgba(44, 123, 229, 0.35);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#footer_label {
+    color: #4a5568;
+    font: 8pt "Segoe UI";
+    padding: 0;
+}

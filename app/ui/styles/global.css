@@ -1,0 +1,20 @@
+/* ══════════════════════════════════════════
+   Global Defaults
+   ══════════════════════════════════════════ */
+
+QWidget {
+    font: 9pt "Segoe UI";
+    color: rgb(230, 230, 230);
+    selection-background-color: rgb(44, 123, 229);
+}
+
+/* ── Background ── */
+#bg_app {
+    background-color: #0b1727;
+    border: 2px solid rgb(30, 32, 33);
+}
+
+/* ── Pages ── */
+#app_pages {
+    background-color: transparent;
+}

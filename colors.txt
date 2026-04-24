@@ -1,0 +1,21 @@
+colors-theme inspired from Falcon-dashboard.
+
+------------------------
+DARK:
+------------------------
+main-color: #0b1727
+secondary-color: #121e2d
+
+blue-main-color: #2c7be5
+blue-main-shadow: #215ba8
+
+titled-text-color: #d8e2ef
+
+
+muted-text-color: #748194
+
+grey-color:#232e3c
+
+green-color: #00d27a
+
+button-shadow:  0 0 0 1px rgba(0, 8, 19, 0.3), 0 2px 5px 0 rgba(0, 13, 33, 0.5), 0 1px 1.5px 0 rgba(0, 8, 1, 0.48), 0 1px 2px 0 rgba(0, 8, 1, 0.4);

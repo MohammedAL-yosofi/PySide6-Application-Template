@@ -1,0 +1,19 @@
+{
+    "app_name": "School Management System",
+    "custom_title_bar": true,
+    "startup_size": [
+        1400,
+        800
+    ],
+    "minimum_size": [
+        960,
+        540
+    ],
+    "left_menu": {
+        "color": "#0b1727",
+        "color_hover": "#232e3c",
+        "color_pressed": "#5091e9",
+        "icon_color": "#5091e9",
+        "icon_color_pressed": "#151617"
+    }
+}
